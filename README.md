@@ -23,7 +23,7 @@ Athena scrapes the website "cyberbackgroundchecks.com" and returns the most usef
 
 ```bash
 # Clone the Github repository
-git clone <Athena>
+git clone https://github.com/infuscate/Athena.git
 
 # Access the directory and install the required libraries
 cd Athena
